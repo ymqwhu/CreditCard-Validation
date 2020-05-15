@@ -5,4 +5,4 @@ CS50 HW - Using Luhn Algorithm
   1. check the digits
   2. classify card types
   3. apply Luhn Algo (spliting digits and sum)
-55555555555555555555555555555555
+
